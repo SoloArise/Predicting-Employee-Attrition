@@ -11,3 +11,15 @@ The dataset used in this project is `Employee-Attrition.csv`, containing anonymi
 - Exploratory Data Analysis (EDA) in Jupyter Notebook
 - Machine Learning Model using Random Forest
 - Metrics Evaluation (Accuracy, Precision, Recall, etc.)
+
+## Technologies
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Files
+- **EmployeeAttrition.ipynb**: Main Python script for EDA.
+- **Employee-Attrition.csv**: The dataset file.
+- **Requirements.txt**: List of Python libraries required to run the script.
